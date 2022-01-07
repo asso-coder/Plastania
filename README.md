@@ -1,3 +1,3 @@
 # Plastania Game
 
-This is a game I created primarily using C and Allegro as my graphics library. It's meant to raise awareness around environmental sustainability and plastic in the ocean. It's pretty much angry birds but with environmental graphics. It has no levels though; it is a highscore-based game that doesn't end until losing. Gets progressively harder each time
+This is a video game I created using C/C++ and Allegro as a graphics library. Meant to raise awareness around environmental sustainability and plastic in the ocean, Plastania involves shooting projectiles at a target. If you like Angry Birds, you'll love this highscore-based game that gets progressively harder after each make!
